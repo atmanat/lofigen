@@ -1,22 +1,14 @@
 {
-  "files": {
-    "main.css": "/lofigen/static/css/main.8ce50d48.chunk.css",
-    "main.js": "/lofigen/static/js/main.2dfc1435.chunk.js",
-    "main.js.map": "/lofigen/static/js/main.2dfc1435.chunk.js.map",
-    "runtime-main.js": "/lofigen/static/js/runtime-main.0868bb00.js",
-    "runtime-main.js.map": "/lofigen/static/js/runtime-main.0868bb00.js.map",
-    "static/js/2.fff6804d.chunk.js": "/lofigen/static/js/2.fff6804d.chunk.js",
-    "static/js/2.fff6804d.chunk.js.map": "/lofigen/static/js/2.fff6804d.chunk.js.map",
-    "index.html": "/lofigen/index.html",
-    "precache-manifest.2c719a551a4ef8160b09de7853866e5d.js": "/lofigen/precache-manifest.2c719a551a4ef8160b09de7853866e5d.js",
-    "service-worker.js": "/lofigen/service-worker.js",
-    "static/css/main.8ce50d48.chunk.css.map": "/lofigen/static/css/main.8ce50d48.chunk.css.map",
-    "static/js/2.fff6804d.chunk.js.LICENSE.txt": "/lofigen/static/js/2.fff6804d.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.0868bb00.js",
-    "static/js/2.fff6804d.chunk.js",
-    "static/css/main.8ce50d48.chunk.css",
-    "static/js/main.2dfc1435.chunk.js"
-  ]
+  "main.css": "/lofigen/static/css/main.582a16d1.chunk.css",
+  "main.js": "/lofigen/static/js/main.ac6f2054.chunk.js",
+  "main.js.map": "/lofigen/static/js/main.ac6f2054.chunk.js.map",
+  "runtime~main.js": "/lofigen/static/js/runtime~main.5a661e9b.js",
+  "runtime~main.js.map": "/lofigen/static/js/runtime~main.5a661e9b.js.map",
+  "static/js/2.72fa8a1a.chunk.js": "/lofigen/static/js/2.72fa8a1a.chunk.js",
+  "static/js/2.72fa8a1a.chunk.js.map": "/lofigen/static/js/2.72fa8a1a.chunk.js.map",
+  "index.html": "/lofigen/index.html",
+  "precache-manifest.ce07e79e5ae3afb4494d099d1422ea7a.js": "/lofigen/precache-manifest.ce07e79e5ae3afb4494d099d1422ea7a.js",
+  "service-worker.js": "/lofigen/service-worker.js",
+  "static/css/main.582a16d1.chunk.css.map": "/lofigen/static/css/main.582a16d1.chunk.css.map",
+  "static/media/foo.txt": "/lofigen/static/media/foo.152595c5.txt"
 }
