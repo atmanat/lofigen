@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lofigen/precache-manifest.c8acfcb14f1d02ace2ae1c1e4bc9056d.js"
+  "/lofigen/precache-manifest.aa9fe2b02cfaad97a918ae896f170293.js"
 );
 
 workbox.clientsClaim();
